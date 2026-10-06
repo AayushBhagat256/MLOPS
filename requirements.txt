@@ -1,0 +1,14 @@
+# Core Data Science & ML
+numpy
+pandas
+scikit-learn
+
+# Experiment Tracking & MLOps
+mlflow
+dvc
+
+# Development & Testing
+pytest
+black
+flake8
+python-dotenv
